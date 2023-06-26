@@ -4,22 +4,20 @@
 </p>
 <br>
 
-## Plugins
- - [UltraStaffChatPro](https://www.spigotmc.org/resources/80461/)
- - [UltraStaffChat BungeeCord](https://www.spigotmc.org/resources/68956/)
- - [UltraAliases](https://www.spigotmc.org/resources/84499/)
- - [UltraMassSay](https://www.spigotmc.org/resources/71997/)
+## Products
+ - [UltraStaffChatPro](https://www.spigotmc.org/resources/80461/) - The most advanced and feature packed staff-chat plugin.
 
-## Libraries
- - [Chameleon](https://github.com/HyperaOfficial/Chameleon/)
- - [Dragonfly](https://github.com/HyperaOfficial/Dragonfly/)
- - [UpdateLib](https://github.com/HyperaOfficial/UpdateLib/)
+## Open-source projects
+ - [ChameleonFramework/Chameleon](https://github.com/ChameleonFramework/Chameleon/) - Cross-platform Minecraft plugin framework
+ - [Dragonfly](https://github.com/HyperaDev/Dragonfly/) - Java runtime dependency management library
+ - [UpdateLib](https://github.com/HyperaDev/UpdateLib/) - A simple update checking library for Minecraft plugins
+ - [Kani](https://github.com/HyperaDev/kani) - A fast Traefik forward-auth server for validating Cloudflare Access requests
+ - [Bear](https://github.com/HyperaDev/Bear) - A simple debugging library
 
-## Developers
+## Team Members
  - [@joshuasing](https://github.com/joshuasing)
- - [@SLLCoding](https://github.com/SLLCoding)
- - [@FitztianPlays](https://github.com/FitztianPlays)
-
+ - [@LooFifteen](https://github.com/LooFifteen)
+ - [@jorjasing](https://github.com/jorjasing)
 
 ## Contact
  - Discord: https://discord.hypera.dev/
