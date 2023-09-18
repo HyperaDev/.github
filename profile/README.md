@@ -26,3 +26,6 @@ If you wish to contact us, please use one of the following methods:
  - [Email `oss@hypera.dev`](mailto:oss@hypera.dev)
  - [Email `support@hypera.dev`](mailto:support@hypera.dev)
  - [Email `security@hypera.dev`](mailto:security@hypera.dev) (security-related matters only)
+
+### Miscellaneous
+ - GPG public key: [`0xE9DCA330AE809114`](https://pgp.mit.edu/pks/lookup?op=get&search=0xE9DCA330AE809114)
